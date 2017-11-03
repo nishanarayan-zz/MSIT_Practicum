@@ -1,0 +1,1 @@
+We used process dashboard to fill in the defects that were found in inspections. We used the LOGD format. The folder "defect log" contains the defect log.
